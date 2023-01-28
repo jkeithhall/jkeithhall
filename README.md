@@ -1,7 +1,7 @@
 # Hi, I'm Keith 👋
 
 - 👨‍💻 I’m a software engineer and a curious builder of things
-- 👨‍🍳 I love to cook and travel and am interested in design, science
+- 👨‍🍳 I love to cook and travel and am interested in design, language, history, and science
 - 💡 I am a Burning Man participant with a philosophy PhD. I love to talk about ideas!
 - 🐈‍⬛🐈‍⬛ I live with my husband in San Francisco with our two cats
 
