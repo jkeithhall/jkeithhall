@@ -7,7 +7,7 @@
 
 ## This is what I'm good at
 <div align="center">
-  <img src="cover.png">
+  <img src="Cover.png">
 </div>
 
 ## Get in touch!
