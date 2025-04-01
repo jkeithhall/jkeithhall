@@ -1,8 +1,8 @@
 # Hi, I'm Keith 👋
 
-- 👨‍💻 I’m a full-stack software engineer with expertise in JavaScript (ES6+)/Typescript, HTML5/CSS3, React.js, and other modern front-end technologies and a strong foundation in computer science fundamentals, including OOP, data structures, and algorithms
-- 👨‍🎨 I have an eye for design and a passion for creating pixel-perfect and engaging user experiences
-- 👨‍🎓 I am an enthusiastic lifetime learner constantly learning new technologies to level-up my skills
+- 👨‍💻 Software engineer with a background in philosophy and a passion for AI, HCI, and educational technology.
+- 💻 Experienced in front-end development and interactive learning tools, with a growing focus on AI-driven applications in education, health tech, and science.
+- 🔬 Strong analytical and problem-solving skills, informed by experience in scientific publishing and research collaboration. Currently deepening expertise in machine learning and human-computer interaction through graduate coursework.
 - 👨‍🎤 I am a burning man participant with a background in academia and science: I love to talk about big ideas!
 
 ## This is what I'm good at
