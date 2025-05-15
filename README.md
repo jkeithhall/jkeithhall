@@ -5,11 +5,6 @@
 - 🔬 Strong analytical and problem-solving skills, informed by experience in scientific publishing and research collaboration. Currently deepening expertise in machine learning and human-computer interaction through graduate coursework.
 - 👨‍🎤 I am a burning man participant with a background in academia and science: I love to talk about big ideas!
 
-## This is what I'm good at
-<div align="center">
-  <img src="Cover.png">
-</div>
-
 ## Get in touch!
 Please don't hesitate to reach out!
 
