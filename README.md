@@ -1,9 +1,10 @@
-# Hi, I'm Keith 👋
+# Hi, I'm Keith
 
-- 👨‍💻 Software engineer with a background in philosophy and a passion for AI, HCI, and educational technology.
-- 💻 Experienced in front-end development and interactive learning tools, with a growing focus on AI-driven applications in education, health tech, and science.
-- 🔬 Strong analytical and problem-solving skills, informed by experience in scientific publishing and research collaboration. Currently deepening expertise in machine learning and human-computer interaction through graduate coursework.
-- 👨‍🎤 I am a burning man participant with a background in academia and science: I love to talk about big ideas!
+Software engineer with a background in philosophy and experience building full-stack systems for education and research. I’ve worked on interactive learning platforms, developer-facing tools, and production systems that support real users, with a growing focus on AI-enabled products and human–computer interaction.
+
+Before software, I worked in scientific publishing, collaborating closely with researchers and editors, which shaped how I think about clarity, rigor, and translating complex ideas into usable systems. I’m currently completing an MS in Computer Science at Georgia Tech, focusing on AI and ML.
+
+Outside of work, I’m active in the Burning Man community and enjoy conversations about big ideas, systems, and how technology actually gets used by people.
 
 ## Get in touch!
 Please don't hesitate to reach out!
